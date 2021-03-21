@@ -1,0 +1,9 @@
+.no-decor {
+    list-style-type: none;
+}
+.completed {
+    text-decoration: line-through;
+}
+.mt-custom {
+    margin-top: 150px;
+}
