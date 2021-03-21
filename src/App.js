@@ -13,8 +13,8 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <div className="row">
-          <div className="col-md-6 offset-3">
+        <div className="row justify-content-center">
+          <div className="col-md-6">
             <div className="card mt-custom">
               <div className="card-header">Add new Todo</div>
               <div className="card-body">
